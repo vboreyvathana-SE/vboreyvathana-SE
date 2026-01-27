@@ -10,7 +10,7 @@
 - First-year Software Engineering student  
 - Focused on **problem solving**, **logic**, and **clean code**
 - Currently practicing **C++**, arrays, loops, and basic systems design
-- Believe in learning by **building**, not just copying code  
+- Believe in learning by **building**. 
 
 ---
 
@@ -37,7 +37,7 @@
 ## 🎯 Goals
 - Build strong programming fundamentals
 - Create a solid portfolio on GitHub
-- Become internship-ready
+- Become internship ready
 - Grow into a professional software engineer
 
 ---
